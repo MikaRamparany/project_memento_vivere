@@ -5,7 +5,6 @@ Le projet vise à créer un site web combinant les concepts de "memento mori" et
 Chaque utilisateur peut personnaliser son propre "memento mori" en marquant des moments importants dans un calendrier qui cochera (ou remplira de couleur) au fil des jours les cases du calendrier. 
 
 Dans la partie privée, les utilisateurs peuvent ajouter des notes intimes et des images. 
-
 Ils ont le choix de garder ces éléments privés ou de les partager avec des amis, préservant ainsi leur confidentialité. 
 
 De plus, les utilisateurs peuvent croiser leur "memento mori" avec ceux de leurs amis pour suivre les jours depuis qu'ils se sont rencontrés. 
@@ -16,3 +15,4 @@ MAIS AVANT TOUT le site encourage les utilisateurs à prendre du recul sur leur 
 
 Le projet offre une perspective unique sur la manière dont les liens et les souvenirs se sont développés au fil du temps. Cette expérience profonde vise à encourager l'introspection tout en célébrant les connexions significatives.
 
+![Texte alternatif](lien_de_l_image)
