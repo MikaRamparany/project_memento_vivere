@@ -1,6 +1,6 @@
 # USER STORIES :
 
-## Côté Users connectés  : 
+## Côté Users connectés: 
 
 | User Story | En tant que | Je veux | Afin de |
 |------------|------------|---------|---------|
