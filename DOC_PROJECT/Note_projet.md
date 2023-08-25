@@ -2,7 +2,7 @@
 
 Le projet vise à créer un site web combinant les concepts de "memento mori" et "memento vivere". 
 
-Chaque utilisateur peut personnaliser son propre "memento mori" en marquant des moments importants dans un calendrier. 
+Chaque utilisateur peut personnaliser son propre "memento mori" en marquant des moments importants dans un calendrier qui cochera (ou remplira de couleur) au fil des jours les cases du calendrier. 
 
 Dans la partie privée, les utilisateurs peuvent ajouter des notes intimes et des images. 
 
