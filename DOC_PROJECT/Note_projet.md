@@ -15,4 +15,4 @@ MAIS AVANT TOUT le site encourage les utilisateurs à prendre du recul sur leur 
 
 Le projet offre une perspective unique sur la manière dont les liens et les souvenirs se sont développés au fil du temps. Cette expérience profonde vise à encourager l'introspection tout en célébrant les connexions significatives.
 
-![Texte alternatif](lien_de_l_image)
+![Texte alternatif](https://ih1.redbubble.net/image.2562815651.2010/flat,750x,075,f-pad,750x1000,f8f8f8.jpg)
